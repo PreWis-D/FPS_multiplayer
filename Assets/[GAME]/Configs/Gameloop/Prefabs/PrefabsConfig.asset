@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2861e7bc6cf3ff34eb5e8c8e09d187ab, type: 3}
+  m_Name: PrefabsConfig
+  m_EditorClassIdentifier: 
+  <UIHandlerGameLoopPrefab>k__BackingField: {fileID: 7177356107607912303, guid: 13698bddf5412434ea24d32bf1a6c66f, type: 3}
+  <PlayerPrefab>k__BackingField: {fileID: 2537633703842019903, guid: 7a34ab784df4bc3499c19dd96d311397, type: 3}
+  <LevelPrefab>k__BackingField: {fileID: 9005190925933883930, guid: 7f17c421a85973a43a407e8f2318943e, type: 3}
